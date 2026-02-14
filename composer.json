@@ -10,11 +10,11 @@
     }
   ],
   "require": {
-    "divineomega/php-base-search": "^1.0"
+    "php": "^7.4 || ^8.0",
+    "jord-jd/php-base-search": "^3.0"
   },
   "require-dev": {
-    "phpunit/phpunit": "^7.0||^8.0",
-    "php-coveralls/php-coveralls": "^2.0"
+    "phpunit/phpunit": "^9.6"
   },
   "autoload": {
     "psr-4": {
