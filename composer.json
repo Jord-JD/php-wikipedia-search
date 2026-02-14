@@ -18,12 +18,12 @@
   },
   "autoload": {
     "psr-4": {
-      "DivineOmega\\WikipediaSearch\\": "src/"
+      "JordJD\\WikipediaSearch\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "DivineOmega\\WikipediaSearch\\Tests\\": "tests/Unit/"
+      "JordJD\\WikipediaSearch\\Tests\\": "tests/Unit/"
     }
   },
   "replace": {

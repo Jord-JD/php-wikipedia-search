@@ -1,8 +1,8 @@
 <?php
 
-namespace DivineOmega\WikipediaSearch;
+namespace JordJD\WikipediaSearch;
 
-use DivineOmega\BaseSearch\Interfaces\SearchResultInterface;
+use JordJD\BaseSearch\Interfaces\SearchResultInterface;
 
 class WikipediaSearchResult implements SearchResultInterface
 {

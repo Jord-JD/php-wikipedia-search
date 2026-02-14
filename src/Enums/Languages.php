@@ -1,6 +1,6 @@
 <?php
 
-namespace DivineOmega\WikipediaSearch\Enums;
+namespace JordJD\WikipediaSearch\Enums;
 
 class Languages
 {

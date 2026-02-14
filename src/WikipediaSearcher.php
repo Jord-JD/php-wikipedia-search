@@ -1,8 +1,8 @@
 <?php
 
-namespace DivineOmega\WikipediaSearch;
+namespace JordJD\WikipediaSearch;
 
-use DivineOmega\BaseSearch\Interfaces\SearcherInterface;
+use JordJD\BaseSearch\Interfaces\SearcherInterface;
 
 class WikipediaSearcher implements SearcherInterface
 {

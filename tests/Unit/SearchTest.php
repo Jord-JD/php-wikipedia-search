@@ -1,11 +1,11 @@
 <?php
 
-namespace DivineOmega\WikipediaSearch\Tests;
+namespace JordJD\WikipediaSearch\Tests;
 
-use DivineOmega\BaseSearch\Interfaces\SearchResultInterface;
-use DivineOmega\WikipediaSearch\Enums\Languages;
-use DivineOmega\WikipediaSearch\WikipediaSearcher;
-use DivineOmega\WikipediaSearch\WikipediaSearchResult;
+use JordJD\BaseSearch\Interfaces\SearchResultInterface;
+use JordJD\WikipediaSearch\Enums\Languages;
+use JordJD\WikipediaSearch\WikipediaSearcher;
+use JordJD\WikipediaSearch\WikipediaSearchResult;
 use PHPUnit\Framework\TestCase;
 
 final class SearchTest extends TestCase
